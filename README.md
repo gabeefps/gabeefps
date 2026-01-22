@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="URL_DA_IMAGEM" alt="Banner" />
+</p>
+
+
 # GBT
 
 Desenvolvedor **Back-end Pleno** com foco em **Node.js**, atuando no desenvolvimento de APIs e serviços web robustos e bem estruturados. Possuo 6 anos de experiência prévia em desenvolvimento de jogos, o que contribuiu para uma base sólida em lógica, organização de código e resolução de problemas complexos.
