@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_IMAGEM" alt="Banner" />
+  <img src="https://media.discordapp.net/attachments/1316817601459916870/1463872164938907895/banner.png?ex=697368b1&is=69721731&hm=6cf1bf0db41953d947fc74c1ff551eef9ffe44dc8460de87daabfdbaf8332681&=&format=webp&quality=lossless&width=1392&height=509" alt="Banner" />
 </p>
 
 
