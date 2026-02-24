@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="[https://media.discordapp.net/attachments/1316817601459916870/1463872164938907895/banner.png?ex=697368b1&is=69721731&hm=6cf1bf0db41953d947fc74c1ff551eef9ffe44dc8460de87daabfdbaf8332681&=&format=webp&quality=lossless&width=1392&height=509](https://media.discordapp.net/attachments/1316817601459916870/1475728110635974656/Desenvolvedor_Full_Stack_com_tecnologia_avancada.png?ex=699e8a67&is=699d38e7&hm=afa05c513ad53192ec84dbcc896b5b7fe646863abc70537a0c7f60c71455c225&=&format=webp&quality=lossless&width=1376&height=917)" alt="Banner" />
-</p>
-
-
 # GBT
 
 Desenvolvedor **Back-end Pleno** com foco em **Node.js**, atuando no desenvolvimento de APIs e serviços web robustos e bem estruturados. Possuo 6 anos de experiência prévia em desenvolvimento de jogos, o que contribuiu para uma base sólida em lógica, organização de código e resolução de problemas complexos.
