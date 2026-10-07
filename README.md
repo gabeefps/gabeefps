@@ -1,66 +1,44 @@
-# GBT
+# Gabriel Trindade
 
-Desenvolvedor **Full Stack Pleno** com foco em **sites e aplicações web completas**, atuando desde a interface até a estruturação do back-end e banco de dados. Possuo 6 anos de experiência prévia em desenvolvimento de jogos, o que contribuiu para uma base sólida em lógica, organização de código e resolução de problemas complexos.
+### Desenvolvedor Full Stack | Desenvolvimento de Software
 
----
+Desenvolvedor Full Stack com **7 anos de experiência em programação**, incluindo uma trajetória sólida no desenvolvimento de jogos. Essa experiência fortaleceu minha lógica, organização de código e capacidade de resolver problemas complexos.
 
-## Sobre
+Tenho facilidade para aprender e gosto de explorar diferentes áreas, linguagens e tecnologias. Neste portfólio, compartilho projetos web que mostram parte do que desenvolvo e das soluções que construo.
 
-Atuo no desenvolvimento completo de **sites profissionais, landing pages e sistemas web**, estruturando tanto o **front-end (interface e experiência do usuário)** quanto o **back-end (APIs, regras de negócio e banco de dados)**.
+## Sobre mim
 
-Utilizo **Node.js** para criação de APIs e serviços escaláveis, além de **React e JavaScript** para construção de interfaces modernas, performáticas e focadas em conversão.
-
-Também possuo experiência com **Java, PHP e Python**, o que fortalece minha visão de arquitetura e boas práticas em diferentes contextos e projetos.
-
-Tenho como foco a criação de **sites otimizados, bem estruturados, escaláveis e orientados a resultados**, garantindo performance, organização de código e integração eficiente entre todas as camadas da aplicação.
-
-Busco oportunidades como **Desenvolvedor Full Stack**, onde possa contribuir na construção de produtos digitais completos, evoluir em arquitetura de software e atuar em projetos de impacto real.
-
----
+- Experiência com desenvolvimento de jogos e projetos web.
+- Criação de interfaces responsivas, aplicações e APIs.
+- Integração entre front-end, back-end e bancos de dados.
+- Implementação de regras de negócio e organização de código.
+- Interesse em oportunidades como **Desenvolvedor Full Stack** e em continuar evoluindo em diferentes áreas da programação.
 
 ## Tecnologias
 
-### **Full Stack**
+**Front-end**  
+HTML · CSS · JavaScript · React
 
-* Node.js
-* React
-* JavaScript
-* HTML
-* CSS
+**Back-end**  
+Node.js · Express · PHP · Python
 
-### **Back-end**
+**Bancos de dados**  
+PostgreSQL · MongoDB
 
-* Java
-* PHP
-* Python
+**Ferramentas e outras tecnologias**  
+Git · Lua
 
-### **Banco de dados**
+## Projetos
 
-* PostgreSQL
-* MySQL
+Neste portfólio você encontra projetos práticos e estudos, incluindo:
 
-### **Ferramentas**
+- Interfaces responsivas com organização de conteúdo e atenção à experiência de uso.
+- Exemplos de formulários, navegação e componentes interativos.
 
-* Git & GitHub
-* Docker
-
----
-
-## Experiência
-
-* Desenvolvimento de sites institucionais e landing pages
-* Criação de aplicações web completas (front-end + back-end)
-* Desenvolvimento de APIs REST com Node.js
-* Implementação de regras de negócio
-* Integração com bancos de dados relacionais
-* Estruturação de projetos seguindo boas práticas
-* Versionamento e organização de código
-* Otimização de performance e organização arquitetural
-
----
+Os detalhes técnicos podem ser consultados na documentação de cada projeto no portfólio.
 
 ## Contato
 
-* LinkedIn: [www.linkedin.com/in/gabriel-trindade-5462b73a6](http://www.linkedin.com/in/gabriel-trindade-5462b73a6)
-
----
+- **LinkedIn:** [Gabriel Trindade](https://www.linkedin.com/in/gabriel-trindade-5462b73a6/)
+- **GitHub:** [gabeefps](https://github.com/gabeefps)
+- **E-mail:** [gbt.dev08@gmail.com](mailto:gbt.dev08@gmail.com)
