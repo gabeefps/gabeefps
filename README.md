@@ -1,44 +1,40 @@
-# Gabriel Trindade
+Gabriel Trindade
+Full Stack Developer | Software Development
 
-### Desenvolvedor Full Stack | Desenvolvimento de Software
+Full Stack Developer with 7 years of programming experience, including a strong background in game development. This experience has helped me develop strong problem-solving skills, write clean and organized code, and tackle complex technical challenges.
 
-Desenvolvedor Full Stack com **7 anos de experiência em programação**, incluindo uma trajetória sólida no desenvolvimento de jogos. Essa experiência fortaleceu minha lógica, organização de código e capacidade de resolver problemas complexos.
+I'm a fast learner who enjoys exploring different areas of software development, programming languages, and technologies. In this portfolio, I showcase web projects that highlight my skills, the solutions I build, and my approach to software development.
 
-Tenho facilidade para aprender e gosto de explorar diferentes áreas, linguagens e tecnologias. Neste portfólio, compartilho projetos web que mostram parte do que desenvolvo e das soluções que construo.
+About Me
+Experience in game development and web development projects.
+Building responsive user interfaces, applications, and APIs.
+Integrating front-end, back-end, and database systems.
+Implementing business logic and writing clean, maintainable code.
+Seeking opportunities as a Full Stack Developer while continuing to grow and expand my skills across different areas of software development.
+Technologies
 
-## Sobre mim
-
-- Experiência com desenvolvimento de jogos e projetos web.
-- Criação de interfaces responsivas, aplicações e APIs.
-- Integração entre front-end, back-end e bancos de dados.
-- Implementação de regras de negócio e organização de código.
-- Interesse em oportunidades como **Desenvolvedor Full Stack** e em continuar evoluindo em diferentes áreas da programação.
-
-## Tecnologias
-
-**Front-end**  
+Front End
 HTML · CSS · JavaScript · React
 
-**Back-end**  
+Back End
 Node.js · Express · PHP · Python
 
-**Bancos de dados**  
+Databases
 PostgreSQL · MongoDB
 
-**Ferramentas e outras tecnologias**  
+Tools & Other Technologies
 Git · Lua
 
-## Projetos
+Projects
 
-Neste portfólio você encontra projetos práticos e estudos, incluindo:
+This portfolio features hands-on projects and coding experiments, including:
 
-- Interfaces responsivas com organização de conteúdo e atenção à experiência de uso.
-- Exemplos de formulários, navegação e componentes interativos.
+Responsive user interfaces with well-structured layouts and a focus on user experience.
+Examples of forms, navigation systems, and interactive components.
 
-Os detalhes técnicos podem ser consultados na documentação de cada projeto no portfólio.
+Technical details and implementation information can be found in each project's documentation within the portfolio.
 
-## Contato
-
-- **LinkedIn:** [Gabriel Trindade](https://www.linkedin.com/in/gabriel-trindade-5462b73a6/)
-- **GitHub:** [gabeefps](https://github.com/gabeefps)
-- **E-mail:** [gbt.dev08@gmail.com](mailto:gbt.dev08@gmail.com)
+Contact
+LinkedIn: Gabriel Trindade
+GitHub: gabeefps
+Email: gbt.dev08@gmail.com
